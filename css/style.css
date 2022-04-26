@@ -16,4 +16,15 @@ clearfix::after{
 }
 h1{
     margin: 40px 0;
+    color: #e53170;
+}
+.col{
+    float: left;
+    padding: 0 15px;
+    margin-top: 40px;
+    width: calc( 100% / 3 );
+}
+img{
+    width: 90px;
+    float: left;
 }
