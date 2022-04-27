@@ -8,6 +8,9 @@
     display: table;
     clear: both;
 }
+body{
+    font-family: 'Fredoka One', cursive;
+}
 .container{
     width: 70%;
     margin: auto;
@@ -32,7 +35,7 @@ img{
     background-color: black;
     float: left;
     margin: 30px 0;
-    width: calc(100% / 3 - 20px);
+    width: calc(100% / 3 - 14px);
     height: 90px;
     box-shadow: inset;
 }
@@ -47,7 +50,7 @@ img{
     color:#57bce2;
 }
 .header{
-    font-size: 20px
+    font-size: 18px
 }
 
 .middle{
