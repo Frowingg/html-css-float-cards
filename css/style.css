@@ -35,7 +35,7 @@ img{
     background-color: black;
     float: left;
     margin: 30px 0;
-    width: calc(100% / 3 - 14px);
+    width: calc(100% / 3 - 13.5px);
     height: 90px;
     box-shadow: inset;
 }
